@@ -711,6 +711,10 @@
     [
       "437ea79c-2ea6-427f-8e2d-6925464391fc",
       "ETH_Switch"
+    ],
+    [
+      "f3b8231f-7b82-4f83-9deb-cd261a39bfe5",
+      "PWR"
     ]
   ],
   "text_variables": {}
