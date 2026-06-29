@@ -56,6 +56,11 @@
           "gap": 0.0,
           "via_gap": 0.0,
           "width": 0.0
+        },
+        {
+          "gap": 0.2,
+          "via_gap": 0.25,
+          "width": 0.21
         }
       ],
       "drc_exclusions": [],
@@ -78,7 +83,7 @@
         "footprint": "error",
         "footprint_filters_mismatch": "ignore",
         "footprint_symbol_mismatch": "warning",
-        "footprint_type_mismatch": "ignore",
+        "footprint_type_mismatch": "warning",
         "hole_clearance": "error",
         "hole_to_hole": "warning",
         "holes_co_located": "warning",
@@ -88,20 +93,20 @@
         "items_not_allowed": "error",
         "length_out_of_range": "error",
         "lib_footprint_issues": "warning",
-        "lib_footprint_mismatch": "ignore",
+        "lib_footprint_mismatch": "warning",
         "malformed_courtyard": "error",
         "microvia_drill_out_of_range": "error",
         "mirrored_text_on_front_layer": "warning",
-        "missing_courtyard": "ignore",
+        "missing_courtyard": "warning",
         "missing_footprint": "warning",
         "net_conflict": "warning",
         "nonmirrored_text_on_back_layer": "warning",
-        "npth_inside_courtyard": "ignore",
+        "npth_inside_courtyard": "warning",
         "padstack": "warning",
-        "pth_inside_courtyard": "ignore",
+        "pth_inside_courtyard": "warning",
         "shorting_items": "error",
         "silk_edge_clearance": "warning",
-        "silk_over_copper": "ignore",
+        "silk_over_copper": "warning",
         "silk_overlap": "warning",
         "skew_out_of_range": "error",
         "solder_mask_bridge": "error",
@@ -123,23 +128,23 @@
       },
       "rules": {
         "max_error": 0.005,
-        "min_clearance": 0.2,
+        "min_clearance": 0.11,
         "min_connection": 0.0,
-        "min_copper_edge_clearance": 0.5,
+        "min_copper_edge_clearance": 0.0,
         "min_groove_width": 0.0,
         "min_hole_clearance": 0.25,
         "min_hole_to_hole": 0.25,
         "min_microvia_diameter": 0.0,
         "min_microvia_drill": 0.0,
-        "min_resolved_spokes": 1,
-        "min_silk_clearance": 0.0,
+        "min_resolved_spokes": 2,
+        "min_silk_clearance": 0.05,
         "min_text_height": 0.8,
         "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.3,
-        "min_track_width": 0.2,
+        "min_track_width": 0.11,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.6,
-        "solder_mask_to_copper_clearance": 0.005,
+        "solder_mask_to_copper_clearance": 0.0,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
@@ -154,9 +159,9 @@
       "teardrop_parameters": [
         {
           "td_allow_use_two_tracks": true,
-          "td_curve_segcount": 0,
+          "td_curve_segcount": 1,
           "td_height_ratio": 1.0,
-          "td_length_ratio": 0.5,
+          "td_length_ratio": 0.6,
           "td_maxheight": 2.0,
           "td_maxlen": 1.0,
           "td_on_pad_in_zone": false,
@@ -188,13 +193,14 @@
       ],
       "track_widths": [
         0.0,
+        0.11,
         0.15,
         0.2,
+        0.25,
         0.3,
         0.4,
         0.5,
         0.6,
-        0.8,
         1.0,
         1.2,
         1.4,
@@ -238,12 +244,12 @@
           "drill": 0.3
         },
         {
-          "diameter": 0.7,
-          "drill": 0.7
-        },
-        {
           "diameter": 0.9,
           "drill": 0.4
+        },
+        {
+          "diameter": 3.5,
+          "drill": 2.2
         }
       ],
       "zones_allow_external_fillets": false
@@ -511,6 +517,18 @@
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
+      },
+      {
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_width": 0.25,
+        "name": "IO_lines",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.25,
+        "via_diameter": 0.6,
+        "via_drill": 0.3
       }
     ],
     "meta": {
@@ -518,7 +536,20 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "Default",
+        "pattern": "/ConnectorDIN41612/RX+"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "/ConnectorDIN41612/RX-"
+      },
+      {
+        "netclass": "IO_lines",
+        "pattern": "/MCU/IO_*"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
@@ -537,12 +568,22 @@
   "schematic": {
     "annotate_start_num": 0,
     "bom_export_filename": "..\\BOM\\${PROJECTNAME}.csv",
-    "bom_fmt_presets": [],
+    "bom_fmt_presets": [
+      {
+        "field_delimiter": ";",
+        "keep_line_breaks": false,
+        "keep_tabs": false,
+        "name": "Main",
+        "ref_delimiter": ",",
+        "ref_range_delimiter": "",
+        "string_delimiter": ""
+      }
+    ],
     "bom_fmt_settings": {
       "field_delimiter": ";",
       "keep_line_breaks": false,
       "keep_tabs": false,
-      "name": "---",
+      "name": "Main",
       "ref_delimiter": ",",
       "ref_range_delimiter": "",
       "string_delimiter": ""
@@ -646,6 +687,36 @@
           "label": "#",
           "name": "${ITEM_NUMBER}",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Mouser Price/Stock",
+          "name": "Mouser Price/Stock",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Mouser Part Number",
+          "name": "Mouser Part Number",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Arrow Part Number",
+          "name": "Arrow Part Number",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Device",
+          "name": "Sim.Device",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Arrow Price/Stock",
+          "name": "Arrow Price/Stock",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -701,10 +772,6 @@
       "Root"
     ],
     [
-      "565931b3-4712-4a60-8439-f9d37a30b26d",
-      "CON1"
-    ],
-    [
       "82a26402-3849-46fd-a3a1-52c735998b36",
       "USB_Switch"
     ],
@@ -715,6 +782,22 @@
     [
       "f3b8231f-7b82-4f83-9deb-cd261a39bfe5",
       "PWR"
+    ],
+    [
+      "565931b3-4712-4a60-8439-f9d37a30b26d",
+      "CON1"
+    ],
+    [
+      "56fed6d7-3e57-4bef-a269-5bc98a747283",
+      "CON2"
+    ],
+    [
+      "e36b746b-f1b2-47c3-8e89-5ea09f756ab6",
+      "CON3"
+    ],
+    [
+      "775ae797-6033-456c-a9c0-6a2995179b23",
+      "CON4"
     ]
   ],
   "text_variables": {}

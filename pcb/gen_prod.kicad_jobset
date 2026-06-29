@@ -26,6 +26,63 @@
     },
     {
       "description": "",
+      "id": "a230573a-ad64-4d9d-86a8-d383461294f1",
+      "settings": {
+        "bom_format_preset_name": "Main",
+        "bom_preset_name": "",
+        "description": "",
+        "exclude_dnp": false,
+        "field_delimiter": ";",
+        "fields_group_by": [
+          "Value"
+        ],
+        "fields_labels": [
+          "Oznaczenie",
+          "Wartość",
+          "Footprint",
+          "Dokumentacja",
+          "Opis",
+          "Liczba",
+          "#",
+          "Height",
+          "Manufacturer_Name",
+          "Manufacturer_Part_Number",
+          "Sim.Device",
+          "Sim.Pins",
+          "TME Electronic Components Part Number",
+          "TME Electronic Components Price/Stock"
+        ],
+        "fields_ordered": [
+          "Reference",
+          "Value",
+          "Footprint",
+          "__Datasheet",
+          "Description",
+          "${QUANTITY}",
+          "__${ITEM_NUMBER}",
+          "__Height",
+          "__Manufacturer_Name",
+          "__Manufacturer_Part_Number",
+          "__Sim.Device",
+          "__Sim.Pins",
+          "__TME Electronic Components Part Number",
+          "__TME Electronic Components Price/Stock"
+        ],
+        "filter_string": "",
+        "include_excluded_from_bom": false,
+        "keep_line_breaks": false,
+        "keep_tabs": false,
+        "output_filename": "bom\\${PROJECTNAME}.csv",
+        "ref_delimiter": ",",
+        "ref_range_delimiter": "",
+        "sort_asc": true,
+        "sort_field": "Reference",
+        "string_delimiter": ""
+      },
+      "type": "sch_export_bom"
+    },
+    {
+      "description": "",
       "id": "1df102d0-2b07-4443-b66d-011484bf6bd6",
       "settings": {
         "back_fp_property_popups": true,
