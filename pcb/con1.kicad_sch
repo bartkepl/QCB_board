@@ -4476,7 +4476,7 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 111.76) (xy 233.68 111.76)
+			(xy 222.25 111.76) (xy 233.68 111.76)
 		)
 		(stroke
 			(width 0)
@@ -4666,7 +4666,7 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 109.22) (xy 233.68 109.22)
+			(xy 222.25 109.22) (xy 233.68 109.22)
 		)
 		(stroke
 			(width 0)
@@ -5822,10 +5822,10 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "07dd4533-a517-480d-a456-54fe600caa44")
+		(uuid "07dd4533-a517-480d-a456-54fe600caa45")
 	)
-	(label "RX-"
-		(at 226.06 111.76 0)
+	(label "CON_RX-"
+		(at 222.25 111.76 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5854,7 +5854,7 @@
 		)
 		(uuid "262ecd82-4a21-4e53-8010-5ad2da07fe7e")
 	)
-	(label "TX-"
+	(label "CON_TX-"
 		(at 251.46 111.76 0)
 		(effects
 			(font
@@ -5864,7 +5864,7 @@
 		)
 		(uuid "8007d45b-7513-40a9-8126-005fd6960d61")
 	)
-	(label "TX+"
+	(label "CON_TX+"
 		(at 134.62 91.44 0)
 		(effects
 			(font
@@ -5874,7 +5874,7 @@
 		)
 		(uuid "88ac73e6-4c8a-4c63-ba5c-7b13c90ee611")
 	)
-	(label "RX+"
+	(label "CON_RX+"
 		(at 134.62 114.3 0)
 		(effects
 			(font
@@ -5884,8 +5884,8 @@
 		)
 		(uuid "8aac7c45-99d1-41a3-92ad-badd6a0179b6")
 	)
-	(label "RX+"
-		(at 226.06 109.22 0)
+	(label "CON_RX+"
+		(at 222.25 109.22 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5894,7 +5894,7 @@
 		)
 		(uuid "9316ac2a-6bb2-431e-a300-a65d0e6a5f09")
 	)
-	(label "TX+"
+	(label "CON_TX+"
 		(at 251.46 109.22 0)
 		(effects
 			(font
@@ -5914,7 +5914,7 @@
 		)
 		(uuid "e249fba9-7558-400a-a1c7-79b1470f16c6")
 	)
-	(label "TX-"
+	(label "CON_TX-"
 		(at 134.62 96.52 0)
 		(effects
 			(font
@@ -5934,7 +5934,7 @@
 		)
 		(uuid "fae9374c-b478-450b-8e02-1a63f6df6247")
 	)
-	(label "RX-"
+	(label "CON_RX-"
 		(at 134.62 119.38 0)
 		(effects
 			(font
@@ -6054,7 +6054,7 @@
 		)
 		(uuid "d300420c-f627-4178-83f0-975c2eb89ae5")
 	)
-	(hierarchical_label "-12V"
+	(hierarchical_label "-12V_PWR"
 		(shape input)
 		(at 213.36 48.26 180)
 		(effects
@@ -6065,7 +6065,7 @@
 		)
 		(uuid "d300420c-f627-4178-83f0-975c2eb89ae6")
 	)
-	(hierarchical_label "+5V"
+	(hierarchical_label "+5V_PWR"
 		(shape input)
 		(at 213.36 50.8 180)
 		(effects
@@ -6076,7 +6076,7 @@
 		)
 		(uuid "d300420c-f627-4178-83f0-975c2eb89ae7")
 	)
-	(hierarchical_label "+12V"
+	(hierarchical_label "+12V_PWR"
 		(shape input)
 		(at 213.36 45.72 180)
 		(effects
@@ -6087,7 +6087,7 @@
 		)
 		(uuid "d300420c-f627-4178-83f0-975c2eb89ae8")
 	)
-	(hierarchical_label "+3.3V"
+	(hierarchical_label "+3.3V_PWR"
 		(shape input)
 		(at 213.36 53.34 180)
 		(effects
