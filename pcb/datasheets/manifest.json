@@ -1,0 +1,131 @@
+{
+  "schematic": "pcb/QCB_board.kicad_sch",
+  "last_sync": "2026-08-03T21:24:01.560227+00:00",
+  "parts": {
+    "GRM188R71H104KA93D": {
+      "manufacturer": "",
+      "description": "Unpolarized capacitor",
+      "value": "100n",
+      "references": [
+        "C35",
+        "C36"
+      ],
+      "status": "failed",
+      "error": "No datasheet URL or all download methods failed",
+      "last_attempt": "2026-08-03T21:23:11.371457+00:00"
+    },
+    "GRM1885C1H103JA01J": {
+      "manufacturer": "",
+      "description": "Unpolarized capacitor",
+      "value": "10n",
+      "references": [
+        "C39",
+        "C40"
+      ],
+      "status": "failed",
+      "error": "No datasheet URL or all download methods failed",
+      "last_attempt": "2026-08-03T21:23:12.155516+00:00"
+    },
+    "1206B102K202": {
+      "manufacturer": "",
+      "description": "1206B102K202",
+      "value": "1nF/2kV",
+      "references": [
+        "C43"
+      ],
+      "status": "failed",
+      "error": "No datasheet URL or all download methods failed",
+      "last_attempt": "2026-08-03T21:23:12.810984+00:00"
+    },
+    "WLBD1608HCU101TL": {
+      "manufacturer": "",
+      "description": "WLBD1608HCU101TL",
+      "value": "100 @ 100MHz",
+      "references": [
+        "FB5",
+        "FB1",
+        "FB4",
+        "FB2",
+        "FB3"
+      ],
+      "status": "not_found",
+      "error": "No LCSC results for 'WLBD1608HCU101TL'",
+      "last_attempt": "2026-08-03T21:23:13.449521+00:00"
+    },
+    "IP175G": {
+      "manufacturer": "",
+      "description": "5 Port 10/100 Ethernet Integrated Switch (85nm /Extreme Low Power, PWMT and AFT )",
+      "value": "IP175G",
+      "references": [
+        "IC1"
+      ],
+      "status": "failed",
+      "error": "No datasheet URL or all download methods failed",
+      "last_attempt": "2026-08-03T21:23:14.053528+00:00"
+    },
+    "CRCW060349R9FKTABC": {
+      "manufacturer": "",
+      "description": "Resistor",
+      "value": "49R9",
+      "references": [
+        "R42",
+        "R41"
+      ],
+      "status": "not_found",
+      "error": "No LCSC results for 'CRCW060349R9FKTABC'",
+      "last_attempt": "2026-08-03T21:23:14.705275+00:00"
+    },
+    "RC0603JR-0782RL": {
+      "manufacturer": "",
+      "description": "Resistor",
+      "value": "82R",
+      "references": [
+        "R45",
+        "R46"
+      ],
+      "status": "failed",
+      "error": "No datasheet URL or all download methods failed",
+      "last_attempt": "2026-08-03T21:23:15.804906+00:00"
+    },
+    "0603SAJ0750T5E": {
+      "manufacturer": "",
+      "description": "Resistor",
+      "value": "75R",
+      "references": [
+        "R55",
+        "R56"
+      ],
+      "status": "not_found",
+      "error": "No LCSC results for '0603SAJ0750T5E'",
+      "last_attempt": "2026-08-03T21:23:16.905979+00:00"
+    },
+    "H1102NL": {
+      "file": "H1102NL_PULSE_ELECTRONICS_-_H1102NL_-_TRANSFORMER_1_1_1PORT_100BASE-TX_SMT.pdf",
+      "manufacturer": "",
+      "description": "PULSE ELECTRONICS - H1102NL - TRANSFORMER, 1:1, 1PORT, 100BASE-TX, SMT",
+      "value": "H1102NL",
+      "datasheet_url": "https://productfinder.pulseeng.com/products/datasheets/h1102nl.pdf",
+      "downloaded_date": "2026-08-03T21:23:17.968348+00:00",
+      "source": "schematic",
+      "status": "ok",
+      "references": [
+        "T1"
+      ],
+      "size_bytes": 602409,
+      "verification": "verified"
+    },
+    "USBLC6-2SC6": {
+      "manufacturer": "",
+      "description": "Very low capacitance ESD protection diode, 2 data-line, SOT-23-6",
+      "value": "USBLC6-2SC6",
+      "references": [
+        "U4",
+        "U5",
+        "U14"
+      ],
+      "status": "failed",
+      "error": "No datasheet URL or all download methods failed",
+      "last_attempt": "2026-08-03T21:23:20.608491+00:00"
+    }
+  }
+}

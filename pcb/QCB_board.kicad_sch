@@ -966,6 +966,22 @@
 		(color 0 0 0 0)
 		(uuid "f7216bc3-7d2d-446c-915c-c6a7750ea809")
 	)
+	(no_connect
+		(at 76.2 101.6)
+		(uuid "8015ddba-0161-4544-abdd-0db17994f450")
+	)
+	(no_connect
+		(at 132.08 101.6)
+		(uuid "cf78beb7-a82c-49da-b2db-036e241a8f79")
+	)
+	(no_connect
+		(at 194.31 101.6)
+		(uuid "d879b057-8e16-4c36-b421-af5591c432d8")
+	)
+	(no_connect
+		(at 252.73 101.6)
+		(uuid "de6f93a8-aab6-4585-8b19-8376cd80d91a")
+	)
 	(wire
 		(pts
 			(xy 242.57 274.32) (xy 242.57 275.59)
@@ -3627,7 +3643,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 204.47 267.0048 0)
 			(hide yes)
 			(show_name no)

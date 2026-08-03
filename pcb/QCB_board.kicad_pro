@@ -166,7 +166,7 @@
         "min_through_hole_diameter": 0.3,
         "min_track_width": 0.11,
         "min_via_annular_width": 0.1,
-        "min_via_diameter": 0.6,
+        "min_via_diameter": 0.4,
         "solder_mask_to_copper_clearance": 0.0,
         "use_height_for_length_calcs": true
       },
@@ -600,7 +600,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "pcb/QCB_board.pdf",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
@@ -823,7 +823,7 @@
         "uuid": "3a9957e4-3d4a-4c65-a0c0-c287bc2a56fb"
       }
     ],
-    "used_designators": "TP11,D13-16,#PWR69,#PWR77,#PWR85,#PWR90,C64-65,C68-69,C71-72,C75-76,C78-79,C82-87",
+    "used_designators": "TP11,D13-16,#PWR27,#PWR69,#PWR77,#PWR85,#PWR90,C64-65,C68-69,C71-72,C75-76,C78-79,C82-87,#FLG1-14",
     "variants": []
   },
   "sheets": [

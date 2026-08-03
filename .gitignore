@@ -29,3 +29,9 @@ fp-info-cache
 # Exported BOM files
 *.xml
 SCA_board_HARD/PCB/ibom.config.ini
+
+# Design-review / analysis tool output (regenerable from source files)
+/analysis/
+
+# KiCad plugin logs
+*_models.log
