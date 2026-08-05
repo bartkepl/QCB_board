@@ -10,7 +10,7 @@
         "drawing_sheet": "",
         "format": "pdf",
         "min_pen_width": 847,
-        "output_filename": "sch\\QCB_board.pdf",
+        "output_filename": "sch/${PROJECTNAME}.pdf",
         "page_size": "auto",
         "pdf_hierarchical_links": true,
         "pdf_metadata": true,
@@ -138,7 +138,7 @@
         ],
         "mirror": false,
         "negative": false,
-        "output_filename": "pcb/QCB_board.pdf",
+        "output_filename": "pcb/${PROJECTNAME}.pdf",
         "pdf_gen_mode": "one-page-per-layer-one-file",
         "pdf_metadata": true,
         "plot_drawing_sheet": true,
@@ -161,7 +161,7 @@
   },
   "outputs": [
     {
-      "description": "",
+      "description": "Prod",
       "id": "98701b62-f76e-4c35-8448-e1f7a2031964",
       "only": [],
       "settings": {
