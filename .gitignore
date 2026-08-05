@@ -35,3 +35,5 @@ SCA_board_HARD/PCB/ibom.config.ini
 
 # KiCad plugin logs
 *_models.log
+pcb/ibom.config.ini
+/prod/gerbers
