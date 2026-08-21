@@ -8599,10 +8599,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "e0f9d092-f87e-4f18-9a36-c33fa056ff39")
 		(property "Reference" "D12"
 			(at 112.522 101.346 0)
