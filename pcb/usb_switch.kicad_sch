@@ -6607,7 +6607,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "2k7"
+		(property "Value" "2.7k"
 			(at 124.46 119.3799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7308,7 +7308,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "0R/47k"
+		(property "Value" "0R"
 			(at 77.4699 67.31 0)
 			(show_name no)
 			(do_not_autoplace no)

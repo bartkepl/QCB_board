@@ -4,7 +4,7 @@ C2,C9,C11,C12,C13,C14,C18,C19,C22,C23,C24,C25,C26,C27,C30,C33,C35,C36,C44,C45,C4
 C3,C4,C5,C8,C17,C21,C29,C46,C49,C59,C66,C73,C80;10u;Capacitor_SMD:C_1206_3216Metric;CL31B106KBHNNNE;13
 C7,C16,C20,C28;1u;Capacitor_SMD:C_0603_1608Metric;CL10B105KA8NNNC;4
 C34;1n;Capacitor_SMD:C_0603_1608Metric;Unpolarized capacitor;1
-C37,C38;6,8n;Capacitor_SMD:C_0603_1608Metric;Unpolarized capacitor;2
+C37,C38;6.8n;Capacitor_SMD:C_0603_1608Metric;Unpolarized capacitor;2
 C39,C40;10n;Capacitor_SMD:C_0603_1608Metric;Unpolarized capacitor;2
 D1,D2,D3,D4,D5,D6,D7,D8;;LED_SMD:LED_0603_1608Metric;Light emitting diode;8
 D10;ESD5Z3.3T1G;Diode_SMD:D_SOD-523;ESD Protection Diode, SOD-523;1
@@ -20,18 +20,18 @@ J5;Conn_01x02;Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical;Generic
 J6;39-29-3086;Connector_Molex:Molex_Mini-Fit_Jr_5566-08A_2x04_P4.20mm_Vertical;Mini-Fit Jr. Vertical Header, 4.20mm Pitch, Dual Row, 8 Circuits, without Snap-in Plastic Peg PCB Lock, Tin, Natural;1
 J7,J8,J9,J10;DIN41612_02x32_AC;Connector_DIN:DIN41612_C_2x32_Female_Vertical_THT;DIN41612 connector, double row (AC), 02x32, script generated (kicad-library-utils/schlib/autogen/connector/);4
 L1;LQH32PN101MN0L;Inductor_SMD:L_1210_3225Metric;Inductor;1
-R1;0R/47k;Resistor_SMD:R_0603_1608Metric;Resistor;1
+R1;0R;Resistor_SMD:R_0603_1608Metric;Resistor;1
 R3,R6;100k;Resistor_SMD:R_0603_1608Metric;Resistor;2
 R4,R5,R10,R21,R24,R25,R26,R27,R30;330;Resistor_SMD:R_0603_1608Metric;Resistor;9
-R9;2k7;Resistor_SMD:R_0603_1608Metric;Resistor;1
-R11,R12,R13,R14,R15,R16,R41,R42;49R9;Resistor_SMD:R_0603_1608Metric;Resistor;8
-R17,R18,R19,R20,R28,R29,R31,R32,R37,R38,R39,R40,R47,R48,R49,R50,R51,R52,R53,R54;2R2;Resistor_SMD:R_0603_1608Metric;Resistor;20
-R33;6k19;Resistor_SMD:R_0603_1608Metric;Resistor;1
+R9;2.7k;Resistor_SMD:R_0603_1608Metric;Resistor;1
+R11,R12,R13,R14,R15,R16,R41,R42;49.9;Resistor_SMD:R_0603_1608Metric;Resistor;8
+R17,R18,R19,R20,R28,R29,R31,R32,R37,R38,R39,R40,R47,R48,R49,R50,R51,R52,R53,R54;2.2;Resistor_SMD:R_0603_1608Metric;Resistor;20
+R33;6.19k;Resistor_SMD:R_0603_1608Metric;Resistor;1
 R34,R35,R36;10k;Resistor_SMD:R_0603_1608Metric;Resistor;3
-R43;10R;Resistor_SMD:R_0603_1608Metric;Resistor;1
-R45,R46;82R;Resistor_SMD:R_0603_1608Metric;Resistor;2
-R55,R56;75R;Resistor_SMD:R_0603_1608Metric;Resistor;2
-R57,R58;150R;Resistor_SMD:R_0603_1608Metric;Resistor;2
+R43;10;Resistor_SMD:R_0603_1608Metric;Resistor;1
+R45,R46;82;Resistor_SMD:R_0603_1608Metric;Resistor;2
+R55,R56;75;Resistor_SMD:R_0603_1608Metric;Resistor;2
+R57,R58;150;Resistor_SMD:R_0603_1608Metric;Resistor;2
 T1;H1102NL;SamacSys_Parts:SOIC127P940X597-16N;PULSE ELECTRONICS - H1102NL - TRANSFORMER, 1:1, 1PORT, 100BASE-TX, SMT;1
 TP1,TP2,TP3,TP4,TP5,TP6,TP7,TP8,TP9,TP10,TP11;TestPoint;TestPoint:TestPoint_Pad_D1.0mm;test point;11
 U1;FE1.1s;Package_SO:SSOP-28_3.9x9.9mm_P0.635mm;USB 2.0 High Speed 4-Port Hub Controller, SSOP-28;1

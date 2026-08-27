@@ -11147,7 +11147,7 @@
 				)
 			)
 		)
-		(property "Value" "2R2"
+		(property "Value" "2.2"
 			(at 273.05 203.454 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11464,7 +11464,7 @@
 				)
 			)
 		)
-		(property "Value" "2R2"
+		(property "Value" "2.2"
 			(at 285.75 203.454 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11543,7 +11543,7 @@
 				)
 			)
 		)
-		(property "Value" "2R2"
+		(property "Value" "2.2"
 			(at 275.59 203.454 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12048,7 +12048,7 @@
 				)
 			)
 		)
-		(property "Value" "2R2"
+		(property "Value" "2.2"
 			(at 283.21 82.296 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12205,7 +12205,7 @@
 				)
 			)
 		)
-		(property "Value" "2R2"
+		(property "Value" "2.2"
 			(at 288.29 203.454 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12365,7 +12365,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150R"
+		(property "Value" "150"
 			(at 537.21 212.0899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12535,7 +12535,7 @@
 				)
 			)
 		)
-		(property "Value" "2R2"
+		(property "Value" "2.2"
 			(at 235.966 152.4 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12951,7 +12951,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "49R9"
+		(property "Value" "49.9"
 			(at 485.14 48.2599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13279,7 +13279,7 @@
 				)
 			)
 		)
-		(property "Value" "6k19"
+		(property "Value" "6.19k"
 			(at 246.126 144.78 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13438,7 +13438,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "49R9"
+		(property "Value" "49.9"
 			(at 474.98 48.2599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13775,7 +13775,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "75R"
+		(property "Value" "75"
 			(at 521.97 212.0899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14030,7 +14030,7 @@
 				)
 			)
 		)
-		(property "Value" "2R2"
+		(property "Value" "2.2"
 			(at 235.966 139.7 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14111,7 +14111,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "49R9"
+		(property "Value" "49.9"
 			(at 518.16 43.1799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14349,7 +14349,7 @@
 				)
 			)
 		)
-		(property "Value" "2R2"
+		(property "Value" "2.2"
 			(at 278.13 82.296 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15820,7 +15820,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "49R9"
+		(property "Value" "49.9"
 			(at 478.79 179.0699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15911,7 +15911,7 @@
 				)
 			)
 		)
-		(property "Value" "2R2"
+		(property "Value" "2.2"
 			(at 290.83 203.454 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16817,7 +16817,7 @@
 				)
 			)
 		)
-		(property "Value" "2R2"
+		(property "Value" "2.2"
 			(at 235.966 134.62 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16897,7 +16897,7 @@
 				)
 			)
 		)
-		(property "Value" "2R2"
+		(property "Value" "2.2"
 			(at 275.59 82.296 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17142,7 +17142,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "49R9"
+		(property "Value" "49.9"
 			(at 480.06 58.4199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17222,7 +17222,7 @@
 				)
 			)
 		)
-		(property "Value" "2R2"
+		(property "Value" "2.2"
 			(at 235.966 160.02 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17301,7 +17301,7 @@
 				)
 			)
 		)
-		(property "Value" "2R2"
+		(property "Value" "2.2"
 			(at 293.37 203.454 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17993,7 +17993,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "82R"
+		(property "Value" "82"
 			(at 464.82 208.2799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18417,7 +18417,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "49R9"
+		(property "Value" "49.9"
 			(at 528.32 43.1799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18653,7 +18653,7 @@
 				)
 			)
 		)
-		(property "Value" "2R2"
+		(property "Value" "2.2"
 			(at 278.13 203.454 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18889,7 +18889,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "49R9"
+		(property "Value" "49.9"
 			(at 523.24 53.3399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18969,7 +18969,7 @@
 				)
 			)
 		)
-		(property "Value" "2R2"
+		(property "Value" "2.2"
 			(at 235.966 154.94 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19536,7 +19536,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150R"
+		(property "Value" "150"
 			(at 546.1 212.0899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19907,7 +19907,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10R"
+		(property "Value" "10"
 			(at 487.68 179.0699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20081,7 +20081,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "49R9"
+		(property "Value" "49.9"
 			(at 469.9 179.0699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20334,7 +20334,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "6,8n"
+		(property "Value" "6.8n"
 			(at 480.06 200.152 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20574,7 +20574,7 @@
 				)
 			)
 		)
-		(property "Value" "2R2"
+		(property "Value" "2.2"
 			(at 235.966 137.16 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20653,7 +20653,7 @@
 				)
 			)
 		)
-		(property "Value" "2R2"
+		(property "Value" "2.2"
 			(at 280.67 203.454 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21069,7 +21069,7 @@
 				)
 			)
 		)
-		(property "Value" "2R2"
+		(property "Value" "2.2"
 			(at 280.67 82.296 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21399,7 +21399,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "82R"
+		(property "Value" "82"
 			(at 472.44 208.2799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22422,7 +22422,7 @@
 				)
 			)
 		)
-		(property "Value" "2R2"
+		(property "Value" "2.2"
 			(at 235.966 157.48 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22916,7 +22916,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "75R"
+		(property "Value" "75"
 			(at 529.59 212.0899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23007,7 +23007,7 @@
 				)
 			)
 		)
-		(property "Value" "2R2"
+		(property "Value" "2.2"
 			(at 235.966 142.24 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23087,7 +23087,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "6,8n"
+		(property "Value" "6.8n"
 			(at 480.06 205.232 0)
 			(show_name no)
 			(do_not_autoplace no)
