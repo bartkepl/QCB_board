@@ -6,6 +6,7 @@ C7,C16,C20,C28;1u;Capacitor_SMD:C_0603_1608Metric;CL10B105KA8NNNC;4
 C34;1n;Capacitor_SMD:C_0603_1608Metric;Unpolarized capacitor;1
 C37,C38;6.8n;Capacitor_SMD:C_0603_1608Metric;Unpolarized capacitor;2
 C39,C40;10n;Capacitor_SMD:C_0603_1608Metric;Unpolarized capacitor;2
+C41,C42;18p;Capacitor_SMD:C_0402_1005Metric;Unpolarized capacitor;2
 D1,D2,D3,D4,D5,D6,D7,D8;;LED_SMD:LED_0603_1608Metric;Light emitting diode;8
 D10;ESD5Z3.3T1G;Diode_SMD:D_SOD-523;ESD Protection Diode, SOD-523;1
 D12,D13,D14,D15;UT8413A;Package_DFN_QFN:Diodes_UDFN-10_1x2.5mm_P0.5mm;TRANSIENT VOLTAGE SUPPRESSOR (TVS) ARRAY;4

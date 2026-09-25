@@ -11,11 +11,13 @@ Quad Card Backplane for 3U eurocards. Splits USB 2.0 and 10/100M Ethernet (plus 
 
 ---
 
-## Status: WIP
+## Status: ready for prototype order
 
-- Schematic and PCB routing are done (rev 0.1).
-- A full design review (schematic + PCB + EMC + SPICE) was completed on 2026-08-03; see [Documentation](#documentation) below.
-- Remaining before ordering: fill in BOM manufacturer part numbers, resolve the UT8413A footprint/datasheet, add fiducial markers.
+- Schematic and PCB routing are done (rev 0.1), production files generated.
+- A full design review (schematic + PCB + EMC + SPICE) was completed on 2026-08-03 and re-checked since; see [Documentation](#documentation) below.
+- Fiducials added (2 per side, hand assembly), Y2 load caps C41/C42 now included in the BOM, datasheets for IP175G, FE1.1s and UT8413A in [doc/datasheet/](doc/datasheet/).
+
+Production outputs: [schematic PDF](prod/sch/QCB_board.pdf) · [PCB PDF](prod/pcb/QCB_board.pdf) · [interactive BOM](prod/ibom/QCB_board_ibom.html) · [gerbers](prod/QCB_board.zip)
 
 ---
 
@@ -29,7 +31,7 @@ The board is a backplane hub card built around two switching ICs, fanned out to 
 - **`pwr.kicad_sch`** — power input (Molex Mini-Fit connector J6), polyfuse, ferrite bead, ESD protection. No on-board regulator — +3.3V/+5V/+12V are supplied by the backplane.
 - Channels land on 4 backplane connectors (DIN41612 2×32, J7–J10).
 
-4-layer PCB (F.Cu / In1.Cu / In2.Cu / B.Cu), 101.6 × 128.7 mm, 216 components.
+4-layer PCB (F.Cu / In1.Cu / In2.Cu / B.Cu), 101.6 × 128.7 mm.
 
 ## Features
 
@@ -43,7 +45,7 @@ The board is a backplane hub card built around two switching ICs, fanned out to 
 
 ```
 pcb/        KiCad project (schematic, PCB, jobsets, 3D packages, datasheets cache)
-doc/        Design review report and TODO list (tracked, human-readable)
+doc/        Design review report, TODO list and component datasheets (tracked, human-readable)
 media/      Renders/photos used in this README
 prod/       Generated production outputs (gerbers/zip, BOM, schematic & PCB PDFs)
 analysis/   Raw output of automated design-review tooling (gitignored, regenerable)
