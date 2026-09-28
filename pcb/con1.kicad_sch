@@ -6256,10 +6256,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "02b3f113-dfee-4915-b31c-765f98da97f2")
 		(property "Reference" "J7"
 			(at 240.03 36.83 0)
@@ -6593,6 +6593,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CGA4J3X7T2E104KAA"
+			(at 102.87 91.44 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0df41962-386c-4ee4-92bb-9be5ad253ecc")
 		)
@@ -6776,6 +6787,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CGA4J3X7T2E104KAA"
+			(at 102.87 96.52 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "72e8b6fc-fccb-40a6-9cbf-1cadc33e1ec9")
 		)
@@ -6809,10 +6831,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "20d2be29-41aa-40b7-a122-6b3884f8bc67")
 		(property "Reference" "TP4"
@@ -7140,6 +7162,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CGA4J3X7T2E104KAA"
+			(at 102.87 119.38 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7b50aeb4-7047-496f-95d6-eb4a2cf22c07")
 		)
@@ -7224,6 +7257,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 190.5 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
 			(at 190.5 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -7408,6 +7452,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 87.63 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
 			(at 87.63 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -7842,7 +7897,7 @@
 		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "a40ee48b-645a-4d2b-9a47-8d592b9e1dce")
 		(property "Reference" "JP6"
 			(at 116.8401 50.8 90)
@@ -7936,10 +7991,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "b0e207a2-44e4-4001-b37c-4be5a56abf00")
 		(property "Reference" "TP3"
@@ -8182,6 +8237,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CL31B106KBHNNNE"
+			(at 180.34 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6175f02c-84e0-4908-aaf9-cf38a8dbc89e")
 		)
@@ -8269,6 +8335,17 @@
 			)
 		)
 		(property "Description" "Very low capacitance ESD protection diode, 2 data-line, SOT-23-6"
+			(at 210.82 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "USBLC6-2SC6"
 			(at 210.82 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -8556,6 +8633,17 @@
 		)
 		(property "Description" "CGA4J3X7T2E104KAA"
 			(at 102.87 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CGA4J3X7T2E104KAA"
+			(at 102.87 114.3 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

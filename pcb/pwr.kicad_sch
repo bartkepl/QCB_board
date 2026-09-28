@@ -2658,6 +2658,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
+			(at 85.09 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9070b855-a9cc-4814-ac44-c0dbe593ffa3")
 		)
@@ -2730,6 +2741,17 @@
 			)
 		)
 		(property "Description" "CL31B106KBHNNNE"
+			(at 107.95 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL31B106KBHNNNE"
 			(at 107.95 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -2978,6 +3000,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
+			(at 119.38 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "90e8c6b3-975e-4e9c-b973-c64f38a2beba")
 		)
@@ -3128,6 +3161,17 @@
 		)
 		(property "Description" "ESD Protection Diode, SOD-523"
 			(at 153.67 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ESD5Z3.3T1G"
+			(at 153.67 104.14 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3364,6 +3408,17 @@
 		)
 		(property "Description" "Inductor"
 			(at 114.3 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "LQH32PN101MN0L"
+			(at 114.3 99.06 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3725,7 +3780,7 @@
 				)
 			)
 		)
-		(property "Value" "Polyfuse"
+		(property "Value" "1A"
 			(at 163.83 95.25 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3760,6 +3815,17 @@
 		)
 		(property "Description" "Resettable fuse, polymeric positive temperature coefficient"
 			(at 163.83 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "0ZCJ0150F2C"
+			(at 163.83 99.06 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3851,6 +3917,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
+			(at 130.81 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4f6179ed-cd4e-4499-bdb9-cd3cc8689229")
 		)
@@ -3872,10 +3949,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "a0fe45a9-d55b-4f56-adff-d045cf91846c")
 		(property "Reference" "TP11"
@@ -4089,6 +4166,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
+			(at 96.52 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ae262aa3-926c-43d9-941b-af452e066664")
 		)
@@ -4187,10 +4275,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "e1b6b1b9-83f0-40ad-b902-939d0205bca8")
 		(property "Reference" "TP2"
@@ -4318,6 +4406,17 @@
 			)
 		)
 		(property "Description" "CL31B106KBHNNNE"
+			(at 142.24 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL31B106KBHNNNE"
 			(at 142.24 104.14 0)
 			(hide yes)
 			(show_name no)

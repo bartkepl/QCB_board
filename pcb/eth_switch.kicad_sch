@@ -10878,6 +10878,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
+			(at 195.58 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ea8e2abc-ed6e-4df5-a84c-464e03bee80e")
 		)
@@ -11428,6 +11439,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
+			(at 152.4 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4c82ab28-a967-4251-9e92-f6d8460f0772")
 		)
@@ -11700,7 +11722,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "Green"
 			(at 375.158 132.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11745,6 +11767,17 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 377.19 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "N0G69S04"
 			(at 377.19 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -11874,7 +11907,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "Green"
 			(at 375.158 121.92 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11919,6 +11952,17 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 377.19 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "N0G69S04"
 			(at 377.19 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -12001,6 +12045,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 184.15 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
 			(at 184.15 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -12741,6 +12796,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
+			(at 161.29 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "87b9944a-746e-444a-a2f1-7f5ef0f64773")
 		)
@@ -12995,6 +13061,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CRCW060349R9FKTABC "
+			(at 482.6 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ab3f49da-8f73-42dd-a0d0-e7188733b7af")
 		)
@@ -13177,10 +13254,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "34844e48-2c86-43f9-a9b4-dcadade667a1")
 		(property "Reference" "J4"
 			(at 471.17 120.6499 0)
@@ -13482,6 +13559,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CRCW060349R9FKTABC "
+			(at 472.44 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "51c837e0-c6e3-475b-b827-cfe31de3146b")
 		)
@@ -13554,6 +13642,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 524.51 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
 			(at 524.51 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -13737,6 +13836,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
+			(at 161.29 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f79a1575-76e2-4129-b633-5fd213e31523")
 		)
@@ -13902,6 +14012,17 @@
 			)
 		)
 		(property "Description" "CL10B105KA8NNNC"
+			(at 140.97 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL10B105KA8NNNC"
 			(at 140.97 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -14145,6 +14266,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 515.62 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CRCW060349R9FKTABC "
 			(at 515.62 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -14474,6 +14606,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CL31B106KBHNNNE"
+			(at 107.95 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "718a7581-9678-4261-a42c-af40edce0cfb")
 		)
@@ -14498,7 +14641,7 @@
 		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "52a89f2b-a51b-4008-8392-32b23dc7a9cb")
 		(property "Reference" "JP4"
 			(at 328.93 152.4 0)
@@ -14981,6 +15124,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
+			(at 107.95 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f1d0f4c3-869b-4394-9a35-ee56625f7b59")
 		)
@@ -15053,6 +15207,17 @@
 			)
 		)
 		(property "Description" "CL10B105KA8NNNC"
+			(at 140.97 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL10B105KA8NNNC"
 			(at 140.97 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -15145,6 +15310,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CL31B106KBHNNNE"
+			(at 151.13 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5fb4f5aa-235d-40a8-a1b8-b735de1f8b5f")
 		)
@@ -15170,7 +15346,7 @@
 		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "5cd6db78-20d0-4d8d-ae91-9b511c308bf4")
 		(property "Reference" "JP3"
 			(at 325.12 148.844 0)
@@ -15726,7 +15902,7 @@
 		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "6353fe96-0b6f-4847-a305-2d1505837db4")
 		(property "Reference" "JP5"
 			(at 332.994 162.56 0)
@@ -16163,7 +16339,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "Green"
 			(at 375.158 111.76 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16208,6 +16384,17 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 377.19 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "N0G69S04"
 			(at 377.19 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -16961,10 +17148,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "7cc50cd2-02cd-43ff-ae60-7e8ad57d5256")
 		(property "Reference" "J5"
@@ -17104,6 +17291,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
+			(at 118.11 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "94f2851c-73d4-46d7-8916-02b1a29f78bd")
 		)
@@ -17176,6 +17374,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 477.52 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CRCW060349R9FKTABC "
 			(at 477.52 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -17426,6 +17635,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "1206B102K202"
+			(at 520.7 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "dd7d121d-a193-4726-9142-f01f86b0eab3")
 		)
@@ -17463,7 +17683,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "Green"
 			(at 375.158 127 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17508,6 +17728,17 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 377.19 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "N0G69S04"
 			(at 377.19 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -17945,6 +18176,17 @@
 			)
 		)
 		(property "Description" "CL31B106KBHNNNE"
+			(at 97.79 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL31B106KBHNNNE"
 			(at 97.79 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -18461,6 +18703,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CRCW060349R9FKTABC "
+			(at 525.78 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "dfd6b53b-aefd-4703-961c-92c10fe6ce3f")
 		)
@@ -18933,6 +19186,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CRCW060349R9FKTABC "
+			(at 520.7 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "450b2a44-267b-4cfb-822e-8517088004c9")
 		)
@@ -19339,6 +19603,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
+			(at 172.72 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c5d65a3e-72e5-4369-9e39-e7fe518858c4")
 		)
@@ -19411,6 +19686,17 @@
 			)
 		)
 		(property "Description" "CL10B105KA8NNNC"
+			(at 96.52 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL10B105KA8NNNC"
 			(at 96.52 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -19628,7 +19914,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "Green"
 			(at 375.158 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19673,6 +19959,17 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 377.19 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "N0G69S04"
 			(at 377.19 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -19988,7 +20285,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "Green"
 			(at 375.158 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20033,6 +20330,17 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 377.19 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "N0G69S04"
 			(at 377.19 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -20208,6 +20516,17 @@
 			)
 		)
 		(property "Description" "CL10B105KA8NNNC"
+			(at 86.36 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL10B105KA8NNNC"
 			(at 86.36 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -20450,6 +20769,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 152.4 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
 			(at 152.4 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -21536,6 +21866,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
+			(at 118.11 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c35e8484-238c-4e08-838c-d3935ea416e1")
 		)
@@ -21618,6 +21959,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CL31B106KBHNNNE"
+			(at 151.13 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4ab4ab82-00b4-4dd3-904d-35c60c1b3146")
 		)
@@ -21690,6 +22042,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 218.44 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
 			(at 218.44 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -21952,6 +22315,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
+			(at 140.97 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0153b966-7a50-40c8-a851-9c3de89e2a08")
 		)
@@ -22102,6 +22476,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 140.97 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
 			(at 140.97 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -22547,6 +22932,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
+			(at 207.01 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "aaf39695-a422-4036-87b8-35bfc23b02ce")
 		)
@@ -22651,7 +23047,7 @@
 		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "f4dd7183-5cda-4267-a641-1910b3fc3a7f")
 		(property "Reference" "JP2"
 			(at 501.6501 135.89 90)

@@ -4792,6 +4792,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CL31B106KBHNNNE"
+			(at 130.81 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6359959f-ba7b-4c36-bb47-cac1cdd9dedf")
 		)
@@ -4814,10 +4825,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "0dc7f82f-f5f1-4c64-a3f4-c22fa5ad55fc")
 		(property "Reference" "J2"
 			(at 39.37 72.3899 0)
@@ -4999,7 +5010,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "Green"
 			(at 178.562 86.36 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5045,6 +5056,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 181.61 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "N0G69S04"
+			(at 181.61 90.17 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5359,6 +5381,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 119.38 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
 			(at 119.38 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -6122,7 +6155,7 @@
 		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "6d78bc7b-f49a-4e8b-ba33-de151473af26")
 		(property "Reference" "JP1"
 			(at 198.1201 110.49 90)
@@ -6605,10 +6638,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "9649d894-d02f-4b16-8268-615ee32d54de")
 		(property "Reference" "TP1"
@@ -7010,6 +7043,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CL31B106KBHNNNE"
+			(at 153.67 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "120ade9b-bac2-491c-8fda-543e2a16d753")
 		)
@@ -7047,7 +7091,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "Green"
 			(at 164.592 109.22 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7093,6 +7137,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 167.64 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "N0G69S04"
+			(at 167.64 113.03 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7600,6 +7655,17 @@
 			)
 		)
 		(property "Description" "CL31B106KBHNNNE"
+			(at 140.97 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL31B106KBHNNNE"
 			(at 140.97 49.53 0)
 			(hide yes)
 			(show_name no)

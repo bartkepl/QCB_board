@@ -3228,10 +3228,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "22e6c90a-b5e2-41e5-8064-7bb1cba58b15")
 		(property "Reference" "J1"
 			(at 287.02 138.4299 0)
@@ -3991,6 +3991,17 @@
 		)
 		(property "Description" "1206B102K202"
 			(at 200.66 267.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "1206B102K202"
+			(at 200.66 267.97 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
