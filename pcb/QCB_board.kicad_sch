@@ -4000,8 +4000,30 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "1206B102K202"
-			(at 200.66 267.97 90)
+		(property "MPN" "C1206X102K202T"
+			(at 200.66 267.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "IHHEC"
+			(at 200.66 267.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C106012"
+			(at 200.66 267.97 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
